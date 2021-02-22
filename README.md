@@ -1,4 +1,4 @@
-![plot](D:\my_folders\Git_local_repo\Hackathone-Life_Expectancy_Prediction\images.png)
+![plot](images.png)
 
 # Life-expectancy-prediction**
 
