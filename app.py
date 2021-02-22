@@ -4,7 +4,7 @@ import streamlit as st
 import pandas as pd 
 
 
-model = pickle.load(open('D:\my_folders\Git_local_repo\Hackathone-Life_Expectancy_Prediction\life_expectancy_model.pkl','rb'))  
+model = pickle.load(open('life_expectancy_model.pkl','rb'))  
 
 def welcome():
     return "# Life Expectancy Prediction" 
